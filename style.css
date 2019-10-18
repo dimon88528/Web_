@@ -28,3 +28,9 @@ footer{
     background: rgb(255, 202, 152);
 
 }
+.card img{
+    /* 高度 */
+    height: 600px;
+    /* 物件適應 */
+    object-fit: cover
+}
